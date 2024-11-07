@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "question": "Salinization occurs when the irrigation water accumulated in the soil evaporates, leaving behind salts and minerals. What are the effects of salinization on the irrigated land ?",
+    "option": [
+      "It greatly increases the crop production",
+      "It makes some soils impermeable",
+      "It raises the water table",
+      "t fills the air spaces in the soil with water"
+    ],
+    "correctAns": "It makes some soils impermeable",
+    "userAnswer": null,
+    "visited": false
+  },
+  {
+    "id": 2,
+    "question": "Assertion (A) : Laterite soils are red in color and coarse in texture.Reason (R) : Laterite soils contain high concentrations of silica and calcium carbonate.",
+    "option": [
+      "Both (A) and (R) are individually true and (R) is the correct explanation of (A)",
+      "Both (A) and (R) are individually true but (R) is not the correct explanation of (A)",
+      "(A) is true but (R) is false",
+      "(A) is false but (R) is true"
+    ],
+    "correctAns": "(A) is true but (R) is false",
+    "userAnswer": null,
+    "visited": false
+  },
+  {
+    "id": 3,
+    "question": "Non-commerical pastoral nomadism is a way of life in the",
+    "option": [
+      "Velds of South Africa",
+      "Steppes of Mongolia",
+      "Prairies of Canada",
+      "Australian downs"
+    ],
+    "correctAns": "Steppes of Mongolia",
+    "userAnswer": null,
+    "visited": false
+  },
+  {
+    "id": 4,
+    "question": "India is the world's largest producer of",
+    "option": ["Rice", "Wheat", "Millet", "Cotton"],
+    "correctAns": "Millet",
+    "userAnswer": null,
+    "visited": false
+  },
+  {
+    "id": 5,
+    "question": "Which of the following techniques is useful for predicting the wheat yield ?",
+    "option": ["Regression", "Chi-square", "Simulation", "Correlation"],
+    "correctAns": "Regression",
+    "userAnswer": null,
+    "visited": false
+  },
+  {
+    "id": 6,
+    "question": "Salinization occurs when the irrigation water accumulated in the soil evaporates, leaving behind salts and minerals. What are the effects of salinization on the irrigated land ?",
+    "option": [
+      "It greatly increases the crop production",
+      "It makes some soils impermeable",
+      "It raises the water table",
+      "t fills the air spaces in the soil with water"
+    ],
+    "correctAns": "It makes some soils impermeable",
+    "userAnswer": null,
+    "visited": false
+  },
+  {
+    "id": 7,
+    "question": "Assertion (A) : Laterite soils are red in colour and coarse in texture.Reason (R) : Laterite soils contain high concentrations of silica and calcium carbonate.",
+    "option": [
+      "Both (A) and (R) are individually true and (R) is the correct explanation of (A)",
+      "Both (A) and (R) are individually true but (R) is not the correct explanation of (A)",
+      "(A) is true but (R) is false",
+      "(A) is false but (R) is true"
+    ],
+    "correctAns": "(A) is true but (R) is false",
+    "userAnswer": null,
+    "visited": false
+  },
+  {
+    "id": 8,
+    "question": "Non-commerical pastoral nomadism is a way of life in the",
+    "option": [
+      "Velds of South Africa",
+      "Steppes of Mongolia",
+      "Prairies of Canada",
+      "Australian downs"
+    ],
+    "correctAns": "Steppes of Mongolia",
+    "userAnswer": null,
+    "visited": false
+  },
+  {
+    "id": 9,
+    "question": "India is the world's largest producer of",
+    "option": ["Rice", "Wheat", "Millet", "Cotton"],
+    "correctAns": "Millet",
+    "userAnswer": null,
+    "visited": false
+  },
+  {
+    "id": 10,
+    "question": "Which of the following techniques is useful for predicting the wheat yield ?",
+    "option": ["Regression", "Chi-square", "Simulation", "Correlation"],
+    "correctAns": "Regression",
+    "userAnswer": null,
+    "visited": false
+  }
+]

@@ -1,0 +1,74 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+header {
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem;
+}
+main {
+  display: grid;
+  grid-template-columns: 40% 20% 30%;
+  justify-content: space-between;
+}
+
+footer {
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem;
+}
+footer > div > button {
+  padding: 0.5rem 2rem;
+  border: none;
+  background-color: coral;
+  color: white;
+  border-radius: 10px;
+  margin-left: 1rem;
+  font-weight: bold;
+}
+#btn > button {
+  padding: 0.5rem;
+  border: none;
+  border-radius: 5px;
+}
+#btn {
+  display: grid;
+  grid-template-columns: repeat(4, 22%);
+  justify-content: space-between;
+  gap: 1rem;
+}
+#btn > button {
+  background-color: coral;
+  color: white;
+}
+#btn > button:hover {
+  background-color: black;
+  cursor: pointer;
+}
+#btn > button:active {
+  background-color: black;
+  cursor: pointer;
+}
+
+footer > div > button:active {
+  background-color: black;
+  color: white;
+  cursor: pointer;
+}
+footer > div > button:hover {
+  background-color: black;
+  color: white;
+  cursor: pointer;
+}
+
+#opt > div > input {
+  height: 1rem;
+}
+#opt > div {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-top: 1rem;
+}
